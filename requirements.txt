@@ -1,0 +1,24 @@
+# FastAPI server
+fastapi
+uvicorn[standard]
+
+# AI / LangChain
+langchain
+langchain-community
+
+# Google ADK (optional but keep if required)
+google-adk
+
+# Database
+sqlalchemy
+
+# Environment & validation
+pydantic
+python-dotenv
+
+# Google Cloud (keep ONLY one, using datastore)
+google-cloud-datastore
+google-cloud-logging
+
+# Extra tool
+wikipedia
